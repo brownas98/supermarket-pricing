@@ -10,12 +10,12 @@ This app requires Java 8 and Maven 3.
 This will build the application and run the tests.
 
 3. Once this has finished you should see output ending like
-[INFO] ------------------------------------------------------------------------
+```[INFO] ------------------------------------------------------------------------
 [INFO] BUILD SUCCESS
 [INFO] ------------------------------------------------------------------------
 [INFO] Total time:  3.242 s
 [INFO] Finished at: 2019-05-20T09:03:27+01:00
-[INFO] ------------------------------------------------------------------------
+[INFO] ------------------------------------------------------------------------```
 
 4. Move one directory down into the target directory where there should now be a file like supermarket-pricing-0.0.1-SNAPSHOT.jar .
 
