@@ -28,6 +28,7 @@ This will build the application and run the tests.
 And you should get this output which describes the example basket contents, sub total, discount total and grand total.
 Supermarket Pricing Example
 
+```
 Price List
 Beans 0.50
 Coke 0.70
@@ -45,5 +46,5 @@ Oranges X 200 grams
 Sub Total 3.30
 Discount Total -0.90
 Grand Total 2.40
-
+```
 
